@@ -58,7 +58,7 @@ creator:
     aliases:
     - Lucas, Edward Verrall
     - Lucas, E.V.
-    birthdate: &id003 1868
+    birthdate: 1868
     deathdate: 1938
     gutenberg_agent_id: '818'
     url: http://www.gutenberg.org/2009/agents/818
@@ -67,7 +67,7 @@ creator:
     gutenberg_agent_id: '39281'
     url: http://www.gutenberg.org/2009/agents/39281
   - agent_name: Canby, Henry Seidel
-    birthdate: &id001 1878
+    birthdate: 1878
     deathdate: 1961
     gutenberg_agent_id: '1950'
     url: http://www.gutenberg.org/2009/agents/1950
@@ -81,18 +81,18 @@ creator:
   - agent_name: Sherwood, Margaret Pollock
     alias: Hastings, Elizabeth
     birthdate: 1864
-    deathdate: &id002 1955
+    deathdate: 1955
     gutenberg_agent_id: '909'
     url: http://www.gutenberg.org/2009/agents/909
   - agent_name: Montague, Margaret Prescott
     alias: Montague, Margaret Preston
-    birthdate: *id001
-    deathdate: *id002
+    birthdate: 1878
+    deathdate: 1955
     gutenberg_agent_id: '39291'
     url: http://www.gutenberg.org/2009/agents/39291
   - agent_name: Dobie, Charles Caldwell
     birthdate: 1881
-    deathdate: &id004 1943
+    deathdate: 1943
     gutenberg_agent_id: '4115'
     url: http://www.gutenberg.org/2009/agents/4115
   - agent_name: Sharp, Dallas Lore
@@ -128,11 +128,13 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39287
   editor:
     agent_name: Thomas, Charles Swain
-    birthdate: *id003
-    deathdate: *id004
+    birthdate: 1868
+    deathdate: 1943
     gutenberg_agent_id: '39293'
     url: http://www.gutenberg.org/2009/agents/39293
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38172#Atlantic-Narratives--Modern-Short-Stories
 gutenberg_issued: '2011-11-29'
 gutenberg_type: Text
 identifiers:
