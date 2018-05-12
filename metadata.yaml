@@ -1,0 +1,160 @@
+_repo: Atlantic-Narratives--Modern-Short-Stories_38172
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38172-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Gerould, Katharine Fullerton
+    alias: Gerould, Katherine Fullerton
+    birthdate: 1879
+    deathdate: 1944
+    gutenberg_agent_id: '35488'
+    url: http://www.gutenberg.org/2009/agents/35488
+    wikipedia: http://en.wikipedia.org/wiki/Katharine_Fullerton_Gerould
+  - agent_name: Ashe, Elizabeth
+    alias: Pentlarge, Georgiana
+    gutenberg_agent_id: '39282'
+    url: http://www.gutenberg.org/2009/agents/39282
+  - agent_name: Humphrey, Zephine
+    birthdate: 1874
+    deathdate: 1956
+    gutenberg_agent_id: '39040'
+    url: http://www.gutenberg.org/2009/agents/39040
+  - agent_name: Nesbit, E. (Edith)
+    aliases:
+    - Bland, Edith Nesbit
+    - Nesbit, Edith
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '407'
+    url: http://www.gutenberg.org/2009/agents/407
+    wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
+  - agent_name: Lerner, Mary
+    gutenberg_agent_id: '39284'
+    url: http://www.gutenberg.org/2009/agents/39284
+  - agent_name: Comer, Cornelia A. P. (Cornelia Atwood Pratt)
+    aliases:
+    - Comer, Cornelia Atwood Pratt
+    - Pratt, Cornelia Atwood
+    gutenberg_agent_id: '36528'
+    url: http://www.gutenberg.org/2009/agents/36528
+  - agent_name: Dwight, H. G. (Harrison Griswold)
+    alias: Dwight, Harrison Griswold
+    birthdate: 1875
+    deathdate: 1959
+    gutenberg_agent_id: '39283'
+    url: http://www.gutenberg.org/2009/agents/39283
+  - agent_name: Doty, Madeleine Z. (Madeleine Zabriskie)
+    aliases:
+    - Doty, Madeleine Zabriskie
+    - Baldwin, Roger N., Mrs.
+    - Baldwin, Mrs. Roger N.
+    birthdate: 1877
+    deathdate: 1963
+    gutenberg_agent_id: '39286'
+    url: http://www.gutenberg.org/2009/agents/39286
+  - agent_name: Lucas, E. V. (Edward Verrall)
+    aliases:
+    - Lucas, Edward Verrall
+    - Lucas, E.V.
+    birthdate: &id003 1868
+    deathdate: 1938
+    gutenberg_agent_id: '818'
+    url: http://www.gutenberg.org/2009/agents/818
+    wikipedia: http://en.wikipedia.org/wiki/E._V._Lucas
+  - agent_name: Stone, Amy Wentworth
+    gutenberg_agent_id: '39281'
+    url: http://www.gutenberg.org/2009/agents/39281
+  - agent_name: Canby, Henry Seidel
+    birthdate: &id001 1878
+    deathdate: 1961
+    gutenberg_agent_id: '1950'
+    url: http://www.gutenberg.org/2009/agents/1950
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Seidel_Canby
+  - agent_name: Sedgwick, Anne Douglas
+    birthdate: 1873
+    deathdate: 1935
+    gutenberg_agent_id: '2634'
+    url: http://www.gutenberg.org/2009/agents/2634
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Douglas_Sedgwick
+  - agent_name: Sherwood, Margaret Pollock
+    alias: Hastings, Elizabeth
+    birthdate: 1864
+    deathdate: &id002 1955
+    gutenberg_agent_id: '909'
+    url: http://www.gutenberg.org/2009/agents/909
+  - agent_name: Montague, Margaret Prescott
+    alias: Montague, Margaret Preston
+    birthdate: *id001
+    deathdate: *id002
+    gutenberg_agent_id: '39291'
+    url: http://www.gutenberg.org/2009/agents/39291
+  - agent_name: Dobie, Charles Caldwell
+    birthdate: 1881
+    deathdate: &id004 1943
+    gutenberg_agent_id: '4115'
+    url: http://www.gutenberg.org/2009/agents/4115
+  - agent_name: Sharp, Dallas Lore
+    birthdate: 1870
+    deathdate: 1929
+    gutenberg_agent_id: '5640'
+    url: http://www.gutenberg.org/2009/agents/5640
+    wikipedia: http://en.wikipedia.org/wiki/Dallas_Lore_Sharp
+  - agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: http://en.wikipedia.org/wiki/John_Galsworthy
+  - agent_name: Lynn, Margaret
+    gutenberg_agent_id: '39290'
+    url: http://www.gutenberg.org/2009/agents/39290
+  - agent_name: Starr, Ernest
+    gutenberg_agent_id: '39288'
+    url: http://www.gutenberg.org/2009/agents/39288
+  - agent_name: Butler, Katharine
+    gutenberg_agent_id: '39285'
+    url: http://www.gutenberg.org/2009/agents/39285
+  - agent_name: Taylor, Arthur Russell
+    gutenberg_agent_id: '39292'
+    url: http://www.gutenberg.org/2009/agents/39292
+  - agent_name: Mercer, C. A.
+    gutenberg_agent_id: '39289'
+    url: http://www.gutenberg.org/2009/agents/39289
+  - agent_name: Louriet, F. J.
+    gutenberg_agent_id: '39287'
+    url: http://www.gutenberg.org/2009/agents/39287
+  editor:
+    agent_name: Thomas, Charles Swain
+    birthdate: *id003
+    deathdate: *id004
+    gutenberg_agent_id: '39293'
+    url: http://www.gutenberg.org/2009/agents/39293
+description: ''
+gutenberg_issued: '2011-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Short stories'
+tableOfContents: Introduction -- The preliminaries / Cornelia A. P. Comer -- Buttercup-night
+  / John Galsworthy -- Hepaticas / Anne Douglas Sedgwick -- Possessing Prudence /
+  Amy Wentworth Stone -- The Glory-Box / Elizabeth Ashe -- The spirit of the herd
+  / Dallas Lore Sharp -- In the Pasha's garden / H. G. Dwight -- Little selves / Mary
+  Lerner -- The failure / Charles Caldwell Dobie -- Business is business / Henry Seidel
+  Canby -- Nothing / Zephine Humphrey -- A moth of peace / Katharine Fullerton Gerould
+  -- In no strange land / Katharine Butler -- Little brother / Madeleine Z. Doty --
+  What road goeth he? / F. J. Louriet -- The clearer sight / Ernest Starr -- The garden
+  of memories / C. A. Mercer -- The clearest voice / Margaret Sherwood -- The marble
+  child / E. Nesbit -- The one left / E. V. Lucas -- The legacy of Richard Hughes
+  / Margaret Lynn -- Of water and the spirit / Margaret Prescott Montague     -- Mr.
+  Squem / Arthur Russell Taylor.
+title: 'Atlantic Narratives: Modern Short Stories'
+url: http://www.gutenberg.org/ebooks/38172
